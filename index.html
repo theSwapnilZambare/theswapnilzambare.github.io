@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to Swapnil Zambare's Website</title>
+
+    <style>
+        .responsive {
+          width: 100%;
+          height: auto;
+        }
+        * {
+          margin: 20;
+          padding: 10;
+          box-sizing: border-box;
+        }
+        
+        body {
+         height: 100vh;
+         font-family: sans-serif;
+          background-color: #191919;
+          
+          display: flex;
+          align-items: center;
+          justify-content: center;
+        }
+        
+        .btn {
+            background-image: linear-gradient(
+                to right,
+                #654ea3,
+                #aa4b6b,
+                #6c5ce7,
+                #a29bfe
+            );
+            background-size: 400%;
+            border: none;
+            padding: 20px 40px;
+            border-radius: 20px;
+            color: #fff;
+            font-size: 20px;
+            text-transform: uppercase;
+            position: relative;
+            box-shadow: 0 2px 5px rgba(0,0,0,.35);
+        }
+        
+        .btn:before {
+            content: "";
+            position: absolute;
+            top: -5px;
+            bottom: -5px;
+            left: -5px;
+            right: -5px;
+            background-image: linear-gradient(
+                to right,
+                #654ea3,
+                #aa4b6b,
+                #6c5ce7,
+                #a29bfe
+            );
+            background-size: 400%;
+            border-radius: 10%;
+            z-index: -1;
+            opacity: 0;
+            transition: all .4s;
+        }
+        
+        .btn:hover:before {
+            filter: blur(20px);
+            opacity: 1;
+        }
+        
+        .btn:hover {
+            box-shadow: 0 2px 10px rgba(0,0,0,.15);
+            animation: gradient 1s linear infinite alternate;
+        }
+        
+        @keyframes gradient {
+            0% {
+                background-position: 0%;
+            }
+        
+            100% {
+                background-position: 100%;
+            }
+        }
+        
+        
+        </style>
+
+</head>
+<body>
+    <br/>    
+      <center><button class="btn"  onclick="document.location = '#'">Swapnil Zambare</button></center>
+
+
+
+      <script language=JavaScript>
+
+        var message="Website under maintenance. Contact us for details.";
+        
+        ///////////////////////////////////
+        function clickIE4(){
+        if (event.button==2){
+        alert(message);
+        return false;
+        }
+        }
+        
+        function clickNS4(e){
+        if (document.layers||document.getElementById&&!document.all){
+        if (e.which==2||e.which==3){
+        alert(message);
+        return false;
+        }
+        }
+        }
+        
+        if (document.layers){
+        document.captureEvents(Event.MOUSEDOWN);
+        document.onmousedown=clickNS4;
+        }
+        else if (document.all&&!document.getElementById){
+        document.onmousedown=clickIE4;
+        }
+        
+        document.oncontextmenu=new Function("alert(message);return false")
+        
+        // -->
+        </script>
+        
+
+</body>
+</html>
