@@ -31,17 +31,17 @@ section {
 .inner-link:hover {
     background-color: white;
 }
-.sub-heading {
+.sub-head {
     color: white;
     font-size: 17px;
 }
-.sub-heading a:hover {
+.sub-head a:hover {
     color: black;
 }
 .links-section {
     margin-top: 30px;
 }
-.sub-section {
+.sub-sec {
     margin: 15px 0px;
 }
 @media screen and (max-width: 720px) {
