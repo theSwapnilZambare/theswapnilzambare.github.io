@@ -41,14 +41,16 @@
 	<meta name="msapplication-TileImage" content="favicon/ms-icon-144x144.png">
 	<meta name="theme-color" content="#ffffff">
 </head>
-<body>
-    <section>
+<body oncopy="return false" oncut="return false" onpaste="return false">
+    <section class="buttons">
+		<audio id="beat" src="./beep.mp3" preload="auto"></audio>
         <div>
             <img src="./swapnil.png" width="150px" height="150px" alt="Swapnil Zambare">
             <h3 class="sub-head"><a href="https://theswapnilzambare.github.io" target="_blank">@theSwapnilZambare</a></h3>
             <p class="sub-head"><a href="https://theswapnilzambare.github.io" target="_blank">Software Developer ✨, PHP Full stack developer 👨🏻‍💻</a></p>
         </div>
-         <div class="links-section"> 
+
+         <div class="links-section" id="play"> 
              <div class="sub-sec">
                 <a href="https://theswapnilzambare.github.io/portfolio" target="_blank">
                     <div class="inner-link"> Portfolio</div>
@@ -87,5 +89,7 @@
              </div>
          </div>
     </section>
+	
+    <script src="./script.js"></script>
 </body>
 </html>
