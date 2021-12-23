@@ -34,6 +34,10 @@ section {
     color: white;
     font-size: 17px;
 }
+.mytitle p {
+    color: white;
+    font-size: 17px;
+}
 .mytitle a:hover {
     color: black;
 }
