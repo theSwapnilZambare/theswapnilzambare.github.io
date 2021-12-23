@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 body {
     font-family: 'Open Sans', sans-serif;
     background: linear-gradient(0deg, rgb(253, 143, 103), rgb(212,99,163));
@@ -30,21 +31,17 @@ section {
 .inner-link:hover {
     background-color: white;
 }
-.mytitle {
+.sub-head {
     color: white;
     font-size: 17px;
 }
-.mytitle p {
-    color: white;
-    font-size: 17px;
-}
-.mytitle a:hover {
+.sub-head a:hover {
     color: black;
 }
-.linkssection {
+.links-section {
     margin-top: 30px;
 }
-.subsection {
+.sub-sec {
     margin: 15px 0px;
 }
 @media screen and (max-width: 720px) {
