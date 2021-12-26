@@ -1,4 +1,19 @@
-# <a href="https://theswapnilzambare.github.io/" target="_blank" >theswapnilzambare.github.io</a>
+![I am Front End Developer | PHP Developer | CodeIgniter](https://github.com/theSwapnilZambare/theswapnilzambare/blob/main/img/header.png)
+
+
+
+##   Hi there, my name is Swapnil Zambare
+
+#### I am Full Stack Developer | PHP Developer | CodeIgniter Developer | Laravel Developer
+
+
+<p align="left">
+<!-- <a href="https://theswapnilzambare.github.io/" target="_blank" ><img src="https://img.shields.io/badge/-Website-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
+<a href="https://linkedin.com/in/theswapnilzambare" target="_blank" ><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:swapnil.zambare2@gmail.com" target="_blank" ><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://twitter.com/swapnilzambare7" target="_blank" ><img src="https://img.shields.io/badge/-Twitter_-blue?style=flat&logo=Twitter&logoColor=white"/></a>
+</a>
+</p>
 
 
 <img src="./img/man_raising_hand.gif" width="30px"/> My Skills:
@@ -14,3 +29,19 @@
 
 
 
+# <a href="https://theswapnilzambare.github.io/" target="_blank" >theswapnilzambare.github.io</a>
+
+
+## Find me here:
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/theswapnilzambare)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/theswapnilzambare/)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/theswapnilzambare)   <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/theswapnilzambare/)  -->
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theswapnilzambare)](https://github.com/anuraghazra/github-readme-stats)   -->
+
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=theswapnilzambare&show_icons=true)   -->
+
+<!-- ![Profile views](https://gpvc.arturio.dev/theswapnilzambare)     -->
+
+
+
+<!-- <p align='left'><img src='https://visitor-badge.laobi.icu/badge?page_id=theSwapnilZambare'></p> -->
