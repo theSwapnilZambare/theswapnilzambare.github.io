@@ -5,7 +5,7 @@
 
 ##   Hi there, my name is Swapnil Zambare
 
-#### I am Certified Salesforce Developer | Double Star Trailhead Ranger | 3x Superbadges | 250+ Badges
+#### I am Certified Salesforce Developer | Double Star Trailhead Ranger | 4x Superbadges | 260+ Badges
 ## Salesforce Developer | Salesforce Administrator
 
 
